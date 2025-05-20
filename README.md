@@ -38,7 +38,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/t1pson86/skyrim_telegram_bot.git
-2. Установите зависимости::
+2. Установите зависимости:
    ```bash
     pip install -r requirements.txt
 3. Настройте конфигурацию:
